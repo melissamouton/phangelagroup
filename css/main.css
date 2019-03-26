@@ -2083,14 +2083,14 @@ nav a:hover {
   background: #f2f5f7;
 }
 
-.tab-thumb {
+.greg-thumb {
   padding: 0 0 30px 30px;
   position: relative;
   z-index: 2;
 }
 
 @media (max-width: 575px) {
-  .tab-thumb {
+  .greg-thumb {
     padding: 0;
   }
 }
