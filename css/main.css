@@ -8,12 +8,12 @@
 /* =================================== */
 ::-moz-selection {
   /* Code for Firefox */
-  background-color: #8460f6;
+  background-color: #3a3a3a;
   color: #fff;
 }
 
 ::selection {
-  background-color: #8460f6;
+  background-color: #3a3a3a;
   color: #fff;
 }
 
@@ -753,7 +753,7 @@ td, th {
 }
 
 b, i, sup, sub, u, del {
-  color: #8560f6;
+  color: #140057;
 }
 
 h1 {
@@ -1338,7 +1338,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 15px;
   height: 15px;
   border-radius: 50%;
-  background: #8560f6;
+  background: #140057;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   -o-transition: all 0.2s;
@@ -1421,7 +1421,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .primary-switch input:checked + label:before {
-  background: #8560f6;
+  background: #140057;
 }
 
 .confirm-switch {
@@ -1770,12 +1770,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .default-select .nice-select .list .option.selected {
-  color: #8560f6;
+  color: #140057;
   background: transparent;
 }
 
 .default-select .nice-select .list .option:hover {
-  color: #8560f6;
+  color: #140057;
   background: transparent;
 }
 
@@ -1825,12 +1825,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .form-select .nice-select .list .option.selected {
-  color: #8560f6;
+  color: #140057;
   background: transparent;
 }
 
 .form-select .nice-select .list .option:hover {
-  color: #8560f6;
+  color: #140057;
   background: transparent;
 }
 
@@ -1887,7 +1887,7 @@ nav {
     text-align: right;
     padding: 20px 0;
     z-index: 5;
-    background: #8460f6;
+    background: #140057;
   }
 }
 
@@ -2020,7 +2020,7 @@ nav a:hover {
   line-height: 1.2em;
   margin-bottom: 20px;
   padding-top: 300px;
-  padding-right: 100px
+  padding-right: 300px
 }
 
 @media (max-width: 767px) {
@@ -2161,7 +2161,7 @@ nav a:hover {
 
 .ilene-tabs .nav-item span {
   margin-right: 10px;
-  color: #8460f6;
+  color: #140057;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -2170,7 +2170,7 @@ nav a:hover {
 }
 
 .ilene-tabs .nav-item:hover {
-  background: #8460f6;
+  background: #4d4d4d;
   color: #fff;
   border: 1px solid transparent;
 }
@@ -2180,7 +2180,7 @@ nav a:hover {
 }
 
 .ilene-tabs .nav-item.active {
-  background: #8460f6;
+  background: #4d4d4d;
   color: #fff;
   border: 1px solid transparent;
 }
