@@ -1911,7 +1911,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #f3487f;
+  color: #222222;
 }
 
 .section-gap {
@@ -1979,11 +1979,11 @@ nav a:hover {
 .primary-btn.white-bg {
   background: #fff;
   border: 1px solid #eee;
-  color: #8460f6;
+  color: #555555;
 }
 
 .primary-btn.white-bg span {
-  color: #8460f6;
+  color: #555555;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -1991,7 +1991,7 @@ nav a:hover {
 }
 
 .primary-btn.white-bg:hover {
-  background: #8460f6;
+  background: #555555;
   color: #fff;
   border: 1px solid transparent;
 }
@@ -2001,11 +2001,11 @@ nav a:hover {
 }
 
 .banner-area {
-  background: url(../img/greg-landingpage.jpg) no-repeat center center/cover;
+  background: url(../img/landing-page.jpg) no-repeat center center/cover;
 }
 
 .banner-area .overlay-bg {
-  background: rgba(132, 96, 246, 0.8);
+  background: rgba(102, 102, 102, 0.8);
 }
 
 @media (max-width: 767px) {
@@ -2019,6 +2019,8 @@ nav a:hover {
   font-weight: 100;
   line-height: 1.2em;
   margin-bottom: 20px;
+  padding-top: 300px;
+  padding-right: 100px
 }
 
 @media (max-width: 767px) {
