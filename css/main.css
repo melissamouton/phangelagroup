@@ -2019,9 +2019,15 @@ nav a:hover {
   font-weight: 100;
   line-height: 1.2em;
   margin-bottom: 20px;
-  padding-top: 300px;
-  padding-right: 300px
+
 }
+
+  .piks {
+    flex: 0 0 83.33333%;
+    max-width: 83.33333%;
+    padding-top: 1em;
+    padding-right: -15px;
+  }
 
 @media (max-width: 767px) {
   .banner-content h1 {
