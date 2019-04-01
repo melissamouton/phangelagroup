@@ -2196,7 +2196,7 @@ nav a:hover {
 }
 
 .service-area {
-  background: #f3487f;
+  background: #4c4c4c;
 }
 
 .single-service .top {
@@ -2229,7 +2229,7 @@ nav a:hover {
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
   font-size: 36px;
-  color: #f3487f;
+  color: #4c4c4c;
 }
 
 .single-service .top .content h3 {
@@ -2243,7 +2243,7 @@ nav a:hover {
 
 .single-service .bottom {
   height: 260px;
-  background: #6f7598;
+  background: #111954;
   display: -webkit-box;
   display: -webkit-flex;
   display: -moz-flex;
@@ -2265,7 +2265,7 @@ nav a:hover {
 }
 
 .single-service:hover .top {
-  background: #f3487f;
+  background: #4c4c4c
 }
 
 .single-service:hover .top .content span {
