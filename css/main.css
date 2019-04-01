@@ -2196,6 +2196,7 @@ nav a:hover {
 }
 
 .service-area {
+      /* THE GREY BG */
   background: #4c4c4c;
 }
 
@@ -2229,6 +2230,7 @@ nav a:hover {
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
   font-size: 36px;
+    /* THE GREY HOVER */
   color: #4c4c4c;
 }
 
@@ -2243,7 +2245,9 @@ nav a:hover {
 
 .single-service .bottom {
   height: 260px;
+  /* THE DARK BLUE */
   background: #111954;
+
   display: -webkit-box;
   display: -webkit-flex;
   display: -moz-flex;
