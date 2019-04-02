@@ -2657,3 +2657,11 @@ footer .footer-nav li a:hover {
 .switch-wrap p {
   margin: 0;
 }
+
+.gallery img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  flex: 0 0 25%;
+  max-width: 25%;
+}
